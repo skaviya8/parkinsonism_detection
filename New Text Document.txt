@@ -1,0 +1,1 @@
+streamlit run "C:\Users\kaviy\Downloads\parkinson project\app.py"
